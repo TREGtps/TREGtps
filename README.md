@@ -30,7 +30,7 @@ Hi guys, I'm **TRE** (16 y.o) a developer
 ## 💻 Connect with me
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/TREGTPS)
 ![Discord](https://img.shields.io/badge/-TRE%231337-7289da?style=flat-square&logo=discord&logoColor=white)
-[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/2WpT6cbJq8)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/b2qXyB4b5T)
 
 <!--
 Here are some ideas to get you started:
