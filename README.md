@@ -7,6 +7,7 @@ Hi guys, I'm **TRE** (16 y.o) a developer
 - 🌱 I’m currently learning C/C++
 - 💬 Ask me about anything.
 - 📫 How to reach me? Discord: [TRE#1337]
+-   <img src="https://discord.c99.nl/widget/theme-3/803381542004850688.png">
 
 ## 🧑‍💻Languages & tools
 <div align="left">
