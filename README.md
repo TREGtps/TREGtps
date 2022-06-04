@@ -32,6 +32,11 @@ Hi guys, I'm **TRE** (16 y.o) a developer
 ![Discord](https://img.shields.io/badge/-TRE%231337-7289da?style=flat-square&logo=discord&logoColor=white)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/b2qXyB4b5T)
 
+ <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
+ 
+ <a href="https://instagram.com/TRE_Officials" target="_blank">
+                <img src="[https://img.shields.io/badge/tre_officials%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white]"/>
+
 <!--
 Here are some ideas to get you started:
 
