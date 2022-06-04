@@ -35,10 +35,10 @@ Hi guys, I'm **TRE** (16 y.o) a developer
   </p>
         <br>
         <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="https://i.imgur.com/KXx0cCx.gif" align="center" width="373.5px" height="208.5px">
+        <img src="https://https://i.imgur.com/NtLsaV6.png" align="center" width="373.5px" height="208.5px">
         <br>
-        <p align="center">Hewe awe some of my <br>
-        most used s-s-sociaw things >_ xoxox</p>
+        <p align="center">Here are my <br>
+        most used social things >_ xoxox</p>
         <p align="center">
             <a href="https://www.instagram.com/tre_officials/" target="_blank">
                 <img src="https://img.shields.io/badge/tre_officials%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
