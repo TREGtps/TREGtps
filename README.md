@@ -35,7 +35,6 @@ Hi guys, I'm **TRE** (16 y.o) a developer
   </p>
         <br>
         <h2 align="center">           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-        <img src="[https://https://i.imgur.com/NtLsaV6.png]" align="center" width="2048" height="1536px">
         <br>
         <p align="center">Here are my <br>
         most used social things</p>
